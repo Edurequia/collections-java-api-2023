@@ -1,7 +1,7 @@
-package main.java.Application;
+package list.java.Application;
 
-import main.java.list.OperacoesBasicas.CarrinhoDeCompras;
-import main.java.list.OperacoesBasicas.ListaTarefa;
+import list.java.list.OperacoesBasicas.CarrinhoDeCompras;
+import list.java.list.OperacoesBasicas.ListaTarefa;
 
 public class Program {
     public static void main(String[] args) {
